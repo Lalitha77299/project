@@ -1,0 +1,6 @@
+a=input("enter Your Name")
+b=input("enter your age")
+c=input("enter your id")
+print(type(a))
+print(type(b))
+print(type(c))
